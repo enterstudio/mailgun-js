@@ -35,7 +35,7 @@
     "lodash.map": "^3.1.4",
     "lodash.merge": "^3.3.2",
     "lodash.partialright": "^3.1.1",
-    "popsicle": "^1.1.1",
+    "popsicle": "^8.2.0",
     "popsicle-status": "^0.2.0",
     "url-join": "0.0.1"
   },
